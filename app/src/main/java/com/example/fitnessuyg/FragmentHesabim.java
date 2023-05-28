@@ -13,7 +13,8 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Toast;
 
-import com.example.fitness.databinding.FragmentHesabimBinding;
+import com.example.fitnessuyg.databinding.FragmentHesabimBinding;
+import com.example.fitnessuyg.databinding.FragmentHesabimBinding;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 

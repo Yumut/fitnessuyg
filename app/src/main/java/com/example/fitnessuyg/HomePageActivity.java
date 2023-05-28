@@ -6,7 +6,8 @@ import androidx.navigation.ui.NavigationUI;
 
 import android.os.Bundle;
 
-import com.example.fitness.databinding.ActivityHomePageBinding;
+import com.example.fitnessuyg.databinding.ActivityHomePageBinding;
+import com.example.fitnessuyg.databinding.ActivityHomePageBinding;
 
 public class HomePageActivity extends AppCompatActivity {
 

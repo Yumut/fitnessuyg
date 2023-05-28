@@ -18,7 +18,8 @@ import android.widget.ArrayAdapter;
 import android.widget.DatePicker;
 import android.widget.Toast;
 
-import com.example.fitness.databinding.FragmentOgunlerBinding;
+import com.example.fitnessuyg.databinding.FragmentOgunlerBinding;
+import com.example.fitnessuyg.databinding.FragmentOgunlerBinding;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
