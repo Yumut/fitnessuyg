@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359292038702",
+    "project_id": "fitnessuyg",
+    "storage_bucket": "fitnessuyg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359292038702:android:aee7fd434880e1f7d9f9bf",
+        "android_client_info": {
+          "package_name": "com.example.fitnessuyg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrWA_cRE60TKI9L8ej-ewIZhZcchuPMdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
